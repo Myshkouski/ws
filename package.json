@@ -1,6 +1,6 @@
 {
-  "name": "ws",
-  "version": "6.0.0",
+  "name": "@alexeimyshkouski/ws",
+  "version": "7.0.0-beta.1",
   "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
   "keywords": [
     "HyBi",
@@ -10,10 +10,13 @@
     "WebSockets",
     "real-time"
   ],
-  "homepage": "https://github.com/websockets/ws",
-  "bugs": "https://github.com/websockets/ws/issues",
-  "repository": "websockets/ws",
-  "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io)",
+  "homepage": "https://github.com/Myshkouski/ws",
+  "bugs": "https://github.com/Myshkouski/ws/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Myshkouski/ws.git"
+  },
+  "author": "Alexei Myshkouski <alexeimyshkouski@gmail.com>",
   "license": "MIT",
   "main": "index.js",
   "browser": "browser.js",
